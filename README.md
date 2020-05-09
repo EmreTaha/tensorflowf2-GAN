@@ -6,10 +6,10 @@ The GANs are implemented just to get used to TF2. I used some codes from differe
 
 ## List of implementations
 
-* Self-Supervised GANs via Auxiliary Rotation Loss (*ssgan*)
-* Adversarial Feature Learning (*bigan*)
 * Improved Training of Wasserstein GANs (*wgan-gp*)
 * Spectral Normalization for Generative Adversarial Networks (*wgan-sn*)
+* Self-Supervised GANs via Auxiliary Rotation Loss (*ssgan*)
+* Adversarial Feature Learning (*bigan*)
 
 ## TODO list
 * U-GAT-IT
