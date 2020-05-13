@@ -2,7 +2,7 @@
 Simple GAN implementations with Tensorflow 2 for Colab
 
 ## Description
-The GANs are implemented just to get used to TF2. I used some codes from different repos (links are included in the notebooks). The main contribution is that I override keras model's `train_step`  function so that all the models can be trained using fit function. I think that is the only contribution :)
+The GANs are implemented just to get used to TF2. I used some codes from different repos (links are included in the notebooks). The main contribution is that I override keras model's `train_step`  function so that all the models can be trained using `model.fit` method. I think that is the only contribution :)
 
 ## List of implementations
 
